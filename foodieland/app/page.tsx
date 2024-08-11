@@ -16,8 +16,8 @@ export default function Home() {
           width={1280}
           height={640}
           alt= "recipe"
-          // layout="responsive"
-          // className="w-full h-auto"
+          layout="responsive"
+          className="w-full h-auto"
         />
       </div>
       <Categories />
