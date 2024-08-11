@@ -28,3 +28,7 @@ Information on how others can contribute to the project.
 ## License
 
 The license under which the project is distributed.
+
+## Deployment link
+
+https://tobams-test.vercel.app/
