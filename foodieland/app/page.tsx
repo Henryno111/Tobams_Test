@@ -12,7 +12,7 @@ export default function Home() {
      
       <div className="flex mx-auto justify-center"> 
         <Image 
-          src="/featured Recipe.png"
+          src="/recipe_new.svg"
           width={1280}
           height={640}
           alt= "recipe"
@@ -61,13 +61,13 @@ export default function Home() {
           alt= "logo"
           />
         <Image
-          src="/fb_logo.svg"
+          src="/insta_1.svg"
           width={20}
           height={30}
           alt= "facebook"
         />
         <Image
-          src="/ig_logo.svg"
+          src="/fb_logo.svg"
           width={20}
           height={30}
           alt= "instagram"

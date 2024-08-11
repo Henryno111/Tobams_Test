@@ -30,13 +30,13 @@ export default function Navbar() {
           alt= "logo"
           />
         <Image
-          src="/fb_logo.svg"
+          src="/insta_1.svg"
           width={20}
           height={30}
           alt= "facebook"
         />
         <Image
-          src="/ig_logo.svg"
+          src="/fb_logo.svg"
           width={20}
           height={30}
           alt= "instagram"
