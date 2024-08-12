@@ -7,7 +7,7 @@ import Footer from "./ui/Footer";
 
 export default function Home() {
   return (
-    <main className="flex flex-col w-[1280] gap-[4rem] mx-auto">
+    <main className="flex flex-col gap-[4rem] mx-auto">
       <Navbar />
      
       <div className="flex mx-auto justify-center"> 
